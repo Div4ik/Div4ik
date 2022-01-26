@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Div4ik
+- 👋 Hi, I’m Dmitriy Lapitskiy
 - 👀 I’m interested in Cod1ng, sp0rt
 - 🌱 I’m currently learning Java, SQL, Linux.
 - 💞️ I’m looking to collaborate on ...
